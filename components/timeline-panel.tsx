@@ -4,7 +4,7 @@ const socialTracks = [
   {
     name: "TikTok",
     username: "@UZAL.im",
-    url: "https://tiktok.com/@UZAL.im",
+    url: "https://www.tiktok.com/@uzal.fx?is_from_webapp=1&sender_device=pc",
     icon: Music2,
     color: "bg-primary",
     duration: "100%",
@@ -12,7 +12,7 @@ const socialTracks = [
   {
     name: "Instagram",
     username: "@UZAL.im",
-    url: "https://instagram.com/UZAL.im",
+    url: "https://www.instagram.com/dumb_uzal?igsh=MW42bm1sZHVobWZiZA==",
     icon: Instagram,
     color: "bg-pink-500",
     duration: "85%",
@@ -28,7 +28,7 @@ const socialTracks = [
   {
     name: "YouTube",
     username: "UZAL",
-    url: "https://youtube.com/@UZAL",
+    url: "https://youtube.com/@uzal_fx?si=aBKY-kM7Ts5cFE76",
     icon: Youtube,
     color: "bg-red-500",
     duration: "90%",
