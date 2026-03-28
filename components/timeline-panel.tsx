@@ -18,9 +18,9 @@ const socialTracks = [
     duration: "85%",
   },
   {
-    name: "tiktok 2nd account",
+    name: "Telegram",
     username: "@yu_zal",
-    url: "https://vm.tiktok.com/ZSHcUxNKJUqdV-JBPVP/",
+    url: "https://web.telegram.org/k/#5156514793",
     icon: Twitter,
     color: "bg-blue-400",
     duration: "75%",
