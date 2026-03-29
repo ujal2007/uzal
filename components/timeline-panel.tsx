@@ -44,7 +44,7 @@ const socialTracks = [
   {
     name: "Twitch",
     username: "UZAL_fx",
-    url: "https://twitch.tv/UZAL_fx",
+    url: "https://web.telegram.org/k/#-3756136546",
     icon: Twitch,
     color: "bg-purple-500",
     duration: "70%",
